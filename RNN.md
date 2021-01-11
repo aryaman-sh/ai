@@ -19,4 +19,5 @@ Hence RNN are an approach to sequence modelling problems.
 
 ## ::what is RNN::
 Standard neural networs go in one directions and not able to hold sequential information. Rnn have loops.
-![image] (/images/2.png)
+
+![alt text] (/images/2.png)
